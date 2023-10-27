@@ -1,0 +1,101 @@
+[
+	{
+		"id": 1,
+		"cartName": "Carrito",
+		"products": [
+			{
+				"id": 1,
+				"title": "New Product",
+				"description": "This is a sample prooduct",
+				"price": 99.99,
+				"thumbnail": "http://example.com/img.jpg",
+				"code": "sample-product-001",
+				"stock": 50
+			},
+			{
+				"id": 3,
+				"title": "New Product",
+				"description": "This is a sample prooduct",
+				"price": 99.99,
+				"thumbnail": "http://example.com/img.jpg",
+				"code": "sample-product-003",
+				"stock": 50
+			},
+			{
+				"id": 4,
+				"title": "New Product",
+				"description": "This is a sample prooduct",
+				"price": 99.99,
+				"thumbnail": "http://example.com/img.jpg",
+				"code": "sample-product-004",
+				"stock": 50
+			}
+		]
+	},
+	{
+		"id": 2,
+		"cartName": "Carrito",
+		"products": [
+			{
+				"id": 1,
+				"title": "New Product",
+				"description": "This is a sample prooduct",
+				"price": 99.99,
+				"thumbnail": "http://example.com/img.jpg",
+				"code": "sample-product-001",
+				"stock": 50
+			},
+			{
+				"id": 3,
+				"title": "New Product",
+				"description": "This is a sample prooduct",
+				"price": 99.99,
+				"thumbnail": "http://example.com/img.jpg",
+				"code": "sample-product-003",
+				"stock": 50
+			},
+			{
+				"id": 4,
+				"title": "New Product",
+				"description": "This is a sample prooduct",
+				"price": 99.99,
+				"thumbnail": "http://example.com/img.jpg",
+				"code": "sample-product-004",
+				"stock": 50
+			}
+		]
+	},
+	{
+		"id": 3,
+		"cartName": "Carrito",
+		"products": [
+			{
+				"id": 1,
+				"title": "New Product",
+				"description": "This is a sample prooduct",
+				"price": 99.99,
+				"thumbnail": "http://example.com/img.jpg",
+				"code": "sample-product-001",
+				"stock": 50
+			},
+			{
+				"id": 3,
+				"title": "New Product",
+				"description": "This is a sample prooduct",
+				"price": 99.99,
+				"thumbnail": "http://example.com/img.jpg",
+				"code": "sample-product-003",
+				"stock": 50
+			},
+			{
+				"id": 4,
+				"title": "New Product",
+				"description": "This is a sample prooduct",
+				"price": 99.99,
+				"thumbnail": "http://example.com/img.jpg",
+				"code": "sample-product-004",
+				"stock": 50
+			}
+		]
+	}
+]
